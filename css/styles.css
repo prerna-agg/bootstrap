@@ -60,6 +60,9 @@ body {
     min-height: 300px;
 }
 
-.custom-radio-control {
-    color: blue;
+#carouselButton {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
 }
